@@ -1,0 +1,6 @@
+/vendor/
+/demo/
+.env
+env.php
+node_modules/
+package-lock.json
